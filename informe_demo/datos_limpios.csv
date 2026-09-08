@@ -1,0 +1,873 @@
+fecha,producto,vendedor,ciudad,cantidad,monto
+2026-07-11,Antena Sectorial,Marta Ruiz,Medellin,3,706846.0
+2025-03-26,Ont Fibra,Marta Ruiz,Cali,3,199329.0
+2026-05-08,Repetidor Mesh,Luis Gomez,Barranquilla,4,122840.0
+2025-11-02,Ont Fibra,Ana Torres,Medellin,5,323204.0
+2026-03-17,Repetidor Mesh,Luis Gomez,Medellin,4,393365.0
+2026-06-03,Ont Fibra,Ana Torres,Medellin,4,259514.0
+2026-03-14,Router Wifi 6,Carlos Pena,Medellin,7,433563.0
+2026-03-06,Router Wifi 6,Luis Gomez,Barranquilla,8,186450.0
+2025-09-13,Repetidor Mesh,Carlos Pena,Medellin,8,141384.0
+2026-04-16,Antena Sectorial,Ana Torres,Medellin,6,547060.0
+2025-12-22,Repetidor Mesh,Luis Gomez,Bogota,8,299373.0
+2025-04-05,Ont Fibra,Marta Ruiz,Cali,5,297207.0
+2026-06-14,Switch 24P,Carlos Pena,Bogota,1,333954.0
+2026-05-27,Antena Sectorial,Marta Ruiz,Bogota,8,329315.0
+2025-02-14,Repetidor Mesh,Marta Ruiz,Medellin,1,214478.0
+2026-02-14,Ont Fibra,Luis Gomez,Medellin,1,719166.0
+2025-02-12,Switch 24P,Ana Torres,Barranquilla,3,891978.0
+2026-01-09,Cable Utp Cat6,Marta Ruiz,Medellin,1,432937.0
+2025-12-19,Router Wifi 6,Ana Torres,Cali,6,330331.0
+2026-01-18,Router Wifi 6,Luis Gomez,Cali,2,112641.0
+2025-05-04,Cable Utp Cat6,Marta Ruiz,Barranquilla,3,227931.0
+2025-06-30,Antena Sectorial,Marta Ruiz,Bucaramanga,1,195879.0
+2025-04-10,Cable Utp Cat6,Marta Ruiz,Bogota,7,195817.0
+2026-01-16,Router Wifi 6,Marta Ruiz,Barranquilla,2,870100.0
+2026-03-09,Router Wifi 6,Ana Torres,Barranquilla,2,537135.0
+2026-01-08,Switch 24P,Luis Gomez,Medellin,3,103464.0
+2026-06-18,Cable Utp Cat6,Carlos Pena,Medellin,3,538482.0
+2025-12-24,Cable Utp Cat6,Marta Ruiz,Bucaramanga,8,356841.0
+2025-05-21,Repetidor Mesh,Luis Gomez,Medellin,7,135697.0
+2026-01-15,Switch 24P,Marta Ruiz,Medellin,8,116178.0
+2025-09-08,Switch 24P,Luis Gomez,Cali,6,94114.0
+2025-10-03,Router Wifi 6,Luis Gomez,Medellin,7,82728.0
+2026-01-13,Router Wifi 6,Carlos Pena,Barranquilla,2,582719.0
+2025-02-27,Repetidor Mesh,Ana Torres,Bucaramanga,1,243593.0
+2026-06-02,Cable Utp Cat6,Carlos Pena,Bogota,8,89227.0
+2025-11-25,Router Wifi 6,Luis Gomez,Cali,8,129668.0
+2025-08-04,Switch 24P,Luis Gomez,Medellin,1,647181.0
+2025-01-23,Ont Fibra,Ana Torres,Medellin,5,289079.0
+2026-03-09,Ont Fibra,Carlos Pena,Cali,1,537287.0
+2025-01-22,Switch 24P,Marta Ruiz,Barranquilla,1,200071.0
+2026-07-26,Cable Utp Cat6,Carlos Pena,Medellin,4,1170596.0
+2026-03-03,Switch 24P,Ana Torres,Cali,7,318821.0
+2026-04-22,Ont Fibra,Carlos Pena,Medellin,7,610726.0
+2025-05-27,Ont Fibra,Marta Ruiz,Medellin,1,390200.0
+2026-05-14,Antena Sectorial,Ana Torres,Barranquilla,7,1689255.0
+2026-05-18,Cable Utp Cat6,Luis Gomez,Cali,4,363879.0
+2026-06-26,Antena Sectorial,Carlos Pena,Barranquilla,1,530164.0
+2025-04-19,Repetidor Mesh,Carlos Pena,Barranquilla,1,171807.0
+2026-05-12,Switch 24P,Luis Gomez,Medellin,1,108169.0
+2025-02-05,Cable Utp Cat6,Ana Torres,Bogota,8,186725.0
+2026-02-16,Switch 24P,Luis Gomez,Cali,3,648051.0
+2026-02-18,Cable Utp Cat6,Ana Torres,Cali,4,552643.0
+2025-03-01,Cable Utp Cat6,Carlos Pena,Medellin,7,279621.0
+2025-02-07,Repetidor Mesh,Marta Ruiz,Bogota,2,123029.0
+2025-03-02,Router Wifi 6,Marta Ruiz,Barranquilla,5,132849.0
+2025-11-12,Cable Utp Cat6,Marta Ruiz,Barranquilla,1,466078.0
+2026-05-16,Cable Utp Cat6,Carlos Pena,Medellin,3,230492.0
+2025-08-28,Repetidor Mesh,Luis Gomez,Bucaramanga,6,396258.0
+2026-01-31,Router Wifi 6,Luis Gomez,Bogota,5,395903.0
+2025-05-14,Router Wifi 6,Carlos Pena,Cali,1,573308.0
+2026-03-13,Antena Sectorial,Luis Gomez,Bucaramanga,3,187573.0
+2025-09-26,Router Wifi 6,Luis Gomez,Bogota,4,190260.0
+2026-05-01,Switch 24P,Marta Ruiz,Bogota,2,874955.0
+2026-05-04,Router Wifi 6,Carlos Pena,Barranquilla,4,194692.0
+2025-06-18,Router Wifi 6,Luis Gomez,Cali,7,62405.0
+2025-06-12,Router Wifi 6,Carlos Pena,Medellin,2,109259.0
+2026-02-23,Ont Fibra,Carlos Pena,Medellin,2,245921.0
+2025-03-11,Antena Sectorial,Luis Gomez,Cali,4,66922.0
+2026-02-07,Repetidor Mesh,Marta Ruiz,Medellin,1,106951.0
+2026-03-29,Repetidor Mesh,Ana Torres,Medellin,4,127459.0
+2026-03-16,Router Wifi 6,Marta Ruiz,Medellin,7,452385.0
+2025-07-03,Router Wifi 6,Carlos Pena,Medellin,1,325894.0
+2025-05-28,Repetidor Mesh,Carlos Pena,Bucaramanga,5,267348.0
+2025-01-11,Antena Sectorial,Carlos Pena,Bucaramanga,7,429881.0
+2025-11-04,Antena Sectorial,Carlos Pena,Cali,3,176996.0
+2025-09-24,Ont Fibra,Carlos Pena,Bucaramanga,1,296402.0
+2025-11-09,Antena Sectorial,Carlos Pena,Bogota,8,111623.0
+2025-02-17,Ont Fibra,Ana Torres,Medellin,1,262450.0
+2025-12-20,Antena Sectorial,Luis Gomez,Medellin,7,430894.0
+2026-06-08,Router Wifi 6,Luis Gomez,Medellin,2,234756.0
+2025-11-01,Ont Fibra,Luis Gomez,Cali,8,336536.0
+2025-01-24,Repetidor Mesh,Marta Ruiz,Cali,1,95225.0
+2025-02-22,Router Wifi 6,Carlos Pena,Bogota,3,283517.0
+2025-06-08,Ont Fibra,Ana Torres,Medellin,2,422283.0
+2026-06-18,Switch 24P,Luis Gomez,Barranquilla,3,239512.0
+2025-06-28,Ont Fibra,Luis Gomez,Medellin,8,384292.0
+2025-07-09,Cable Utp Cat6,Carlos Pena,Medellin,2,313953.0
+2025-03-14,Switch 24P,Ana Torres,Bogota,5,1660853.0
+2026-05-20,Repetidor Mesh,Carlos Pena,Medellin,2,410778.0
+2025-03-07,Cable Utp Cat6,Marta Ruiz,Cali,3,238053.0
+2026-07-08,Antena Sectorial,Carlos Pena,Bogota,8,2697666.0
+2025-07-18,Ont Fibra,Marta Ruiz,Medellin,4,657068.0
+2026-05-19,Ont Fibra,Luis Gomez,Medellin,6,308080.0
+2025-05-18,Antena Sectorial,Ana Torres,Bogota,6,610208.0
+2026-08-18,Switch 24P,Marta Ruiz,Medellin,2,436823.0
+2026-03-02,Switch 24P,Ana Torres,Bogota,4,321634.0
+2026-07-12,Antena Sectorial,Luis Gomez,Medellin,2,165966.0
+2025-03-06,Router Wifi 6,Carlos Pena,Bucaramanga,6,506897.0
+2026-04-29,Router Wifi 6,Marta Ruiz,Medellin,5,67193.0
+2025-09-02,Router Wifi 6,Luis Gomez,Barranquilla,3,527387.0
+2025-06-23,Cable Utp Cat6,Luis Gomez,Medellin,5,160979.0
+2025-06-29,Antena Sectorial,Marta Ruiz,Bogota,5,149579.0
+2025-12-27,Ont Fibra,Ana Torres,Bogota,3,225776.0
+2025-12-28,Router Wifi 6,Marta Ruiz,Medellin,3,75648.0
+2025-09-18,Switch 24P,Ana Torres,Medellin,1,769443.0
+2026-02-17,Cable Utp Cat6,Carlos Pena,Medellin,8,46357.0
+2025-08-25,Switch 24P,Marta Ruiz,Cali,2,177385.0
+2025-11-17,Antena Sectorial,Luis Gomez,Cali,6,88750.0
+2026-03-08,Ont Fibra,Marta Ruiz,Medellin,6,808034.0
+2025-09-27,Repetidor Mesh,Carlos Pena,Medellin,6,390851.0
+2026-04-27,Antena Sectorial,Luis Gomez,Bogota,3,296236.0
+2025-03-03,Antena Sectorial,Ana Torres,Cali,2,303840.0
+2026-04-03,Ont Fibra,Ana Torres,Bogota,8,192531.0
+2026-07-04,Router Wifi 6,Carlos Pena,Bucaramanga,1,419351.0
+2025-03-13,Cable Utp Cat6,Luis Gomez,Medellin,8,156934.0
+2025-06-10,Router Wifi 6,Ana Torres,Medellin,8,113875.0
+2025-07-19,Ont Fibra,Luis Gomez,Medellin,8,545758.0
+2025-12-16,Repetidor Mesh,Luis Gomez,Medellin,8,204366.0
+2026-07-05,Ont Fibra,Ana Torres,Bogota,8,242024.0
+2025-11-27,Repetidor Mesh,Luis Gomez,Medellin,3,171744.0
+2026-06-10,Cable Utp Cat6,Ana Torres,Bogota,4,81530.0
+2025-06-12,Switch 24P,Luis Gomez,Cali,6,320615.0
+2025-10-29,Repetidor Mesh,Marta Ruiz,Medellin,7,197815.0
+2025-10-01,Router Wifi 6,Marta Ruiz,Barranquilla,2,170847.0
+2025-01-16,Switch 24P,Carlos Pena,Cali,6,211796.0
+2025-04-11,Switch 24P,Ana Torres,Medellin,1,120158.0
+2025-02-27,Antena Sectorial,Marta Ruiz,Medellin,2,221819.0
+2025-03-29,Cable Utp Cat6,Ana Torres,Bogota,5,63033.0
+2025-03-24,Ont Fibra,Luis Gomez,Barranquilla,5,643011.0
+2025-08-08,Cable Utp Cat6,Marta Ruiz,Medellin,7,212668.0
+2025-10-04,Repetidor Mesh,Carlos Pena,Cali,8,538637.0
+2025-05-01,Switch 24P,Luis Gomez,Bogota,2,127231.0
+2026-06-28,Router Wifi 6,Ana Torres,Medellin,2,321239.0
+2025-10-06,Cable Utp Cat6,Luis Gomez,Medellin,3,275820.0
+2026-02-02,Ont Fibra,Marta Ruiz,Barranquilla,3,349807.0
+2026-07-26,Router Wifi 6,Luis Gomez,Medellin,1,466117.0
+2025-05-12,Switch 24P,Marta Ruiz,Medellin,2,657925.0
+2025-03-17,Cable Utp Cat6,Carlos Pena,Medellin,8,270719.0
+2025-05-25,Antena Sectorial,Luis Gomez,Bogota,4,602389.0
+2025-10-16,Repetidor Mesh,Ana Torres,Bogota,8,237462.0
+2026-07-13,Cable Utp Cat6,Carlos Pena,Medellin,5,384232.0
+2025-03-28,Ont Fibra,Ana Torres,Cali,6,133058.0
+2025-09-18,Router Wifi 6,Carlos Pena,Medellin,6,239105.0
+2025-02-01,Cable Utp Cat6,Ana Torres,Bucaramanga,4,316050.0
+2025-04-17,Repetidor Mesh,Ana Torres,Barranquilla,1,251096.0
+2025-01-08,Repetidor Mesh,Luis Gomez,Cali,7,141239.0
+2025-07-14,Ont Fibra,Luis Gomez,Cali,2,1037721.0
+2026-01-09,Repetidor Mesh,Luis Gomez,Cali,2,509451.0
+2025-02-03,Cable Utp Cat6,Luis Gomez,Bogota,4,94560.0
+2025-07-16,Ont Fibra,Ana Torres,Bucaramanga,7,84482.0
+2025-01-06,Switch 24P,Luis Gomez,Barranquilla,4,152241.0
+2025-05-02,Cable Utp Cat6,Luis Gomez,Cali,5,216693.0
+2025-09-17,Antena Sectorial,Ana Torres,Medellin,4,756538.0
+2025-12-18,Antena Sectorial,Luis Gomez,Medellin,2,163189.0
+2025-07-15,Ont Fibra,Ana Torres,Medellin,7,217450.0
+2025-06-15,Repetidor Mesh,Carlos Pena,Medellin,4,344927.0
+2025-07-25,Cable Utp Cat6,Luis Gomez,Bogota,5,214668.0
+2025-09-28,Cable Utp Cat6,Carlos Pena,Bogota,7,460003.0
+2025-12-21,Ont Fibra,Marta Ruiz,Cali,5,207174.0
+2025-12-03,Repetidor Mesh,Marta Ruiz,Barranquilla,4,114496.0
+2026-07-24,Antena Sectorial,Ana Torres,Medellin,3,164266.0
+2025-08-18,Router Wifi 6,Luis Gomez,Barranquilla,7,1052951.0
+2025-04-23,Antena Sectorial,Marta Ruiz,Bogota,5,269800.0
+2025-11-19,Cable Utp Cat6,Ana Torres,Barranquilla,8,276683.0
+2025-08-23,Switch 24P,Ana Torres,Medellin,3,1020641.0
+2026-01-04,Cable Utp Cat6,Luis Gomez,Medellin,6,145861.0
+2026-01-29,Antena Sectorial,Ana Torres,Bucaramanga,7,216307.0
+2025-02-25,Switch 24P,Ana Torres,Bogota,2,253276.0
+2025-03-18,Repetidor Mesh,Luis Gomez,Medellin,5,264889.0
+2025-04-09,Router Wifi 6,Marta Ruiz,Medellin,4,172672.0
+2025-06-17,Ont Fibra,Ana Torres,Medellin,1,319738.0
+2026-04-14,Router Wifi 6,Ana Torres,Cali,5,316620.0
+2025-10-28,Cable Utp Cat6,Luis Gomez,Barranquilla,4,293553.0
+2025-03-13,Repetidor Mesh,Carlos Pena,Cali,2,348690.0
+2025-02-04,Router Wifi 6,Carlos Pena,Medellin,1,575082.0
+2025-08-31,Router Wifi 6,Luis Gomez,Medellin,7,317334.0
+2025-03-27,Switch 24P,Ana Torres,Bogota,7,69454.0
+2026-06-06,Repetidor Mesh,Luis Gomez,Medellin,7,678596.0
+2025-08-07,Antena Sectorial,Marta Ruiz,Medellin,3,263848.0
+2026-05-18,Ont Fibra,Ana Torres,Bogota,7,367265.0
+2025-05-13,Ont Fibra,Carlos Pena,Cali,1,478852.0
+2025-07-23,Switch 24P,Carlos Pena,Cali,2,502556.0
+2026-04-02,Ont Fibra,Ana Torres,Barranquilla,8,545405.0
+2026-06-24,Ont Fibra,Luis Gomez,Bogota,5,535891.0
+2026-04-23,Antena Sectorial,Ana Torres,Bucaramanga,3,524479.0
+2025-04-05,Cable Utp Cat6,Carlos Pena,Medellin,6,254351.0
+2025-10-08,Ont Fibra,Ana Torres,Medellin,5,302155.0
+2025-03-19,Repetidor Mesh,Carlos Pena,Barranquilla,4,456887.0
+2025-08-14,Cable Utp Cat6,Luis Gomez,Cali,6,425530.0
+2025-01-15,Ont Fibra,Ana Torres,Cali,3,108884.0
+2025-06-04,Cable Utp Cat6,Ana Torres,Medellin,1,197018.0
+2025-04-03,Switch 24P,Marta Ruiz,Medellin,3,796243.0
+2026-04-22,Cable Utp Cat6,Ana Torres,Cali,4,327370.0
+2025-09-15,Router Wifi 6,Carlos Pena,Medellin,7,143563.0
+2025-12-07,Repetidor Mesh,Luis Gomez,Medellin,2,184795.0
+2026-07-04,Router Wifi 6,Luis Gomez,Medellin,5,228288.0
+2025-08-30,Cable Utp Cat6,Luis Gomez,Medellin,8,327707.0
+2025-12-09,Ont Fibra,Carlos Pena,Bogota,8,347121.0
+2025-04-11,Antena Sectorial,Luis Gomez,Bogota,6,804540.0
+2026-07-09,Antena Sectorial,Ana Torres,Bogota,8,184187.0
+2025-12-02,Switch 24P,Carlos Pena,Cali,6,157773.0
+2025-08-10,Router Wifi 6,Ana Torres,Medellin,1,472476.0
+2026-02-03,Cable Utp Cat6,Marta Ruiz,Medellin,7,565766.0
+2026-04-21,Antena Sectorial,Ana Torres,Medellin,1,82733.0
+2026-02-04,Repetidor Mesh,Ana Torres,Barranquilla,2,815333.0
+2025-10-07,Repetidor Mesh,Ana Torres,Medellin,5,147971.0
+2025-12-11,Antena Sectorial,Luis Gomez,Bogota,7,153311.0
+2025-07-02,Cable Utp Cat6,Marta Ruiz,Bucaramanga,4,295457.0
+2025-08-01,Repetidor Mesh,Marta Ruiz,Medellin,3,281936.0
+2026-07-30,Router Wifi 6,Carlos Pena,Bucaramanga,4,351669.0
+2026-02-04,Antena Sectorial,Luis Gomez,Cali,3,491995.0
+2025-03-15,Cable Utp Cat6,Luis Gomez,Medellin,7,193313.0
+2025-04-23,Repetidor Mesh,Carlos Pena,Bogota,4,105973.0
+2026-02-22,Repetidor Mesh,Ana Torres,Cali,4,664743.0
+2026-07-28,Antena Sectorial,Carlos Pena,Bogota,8,275995.0
+2026-03-13,Antena Sectorial,Carlos Pena,Bogota,8,195904.0
+2025-03-31,Cable Utp Cat6,Carlos Pena,Medellin,3,84036.0
+2025-03-30,Antena Sectorial,Carlos Pena,Bucaramanga,7,587226.0
+2025-05-17,Cable Utp Cat6,Ana Torres,Bogota,4,995271.0
+2025-09-21,Switch 24P,Marta Ruiz,Bogota,2,264921.0
+2025-11-11,Cable Utp Cat6,Marta Ruiz,Medellin,7,150254.0
+2026-03-15,Switch 24P,Carlos Pena,Medellin,1,219664.0
+2025-10-08,Ont Fibra,Marta Ruiz,Medellin,2,2309747.0
+2026-01-28,Repetidor Mesh,Ana Torres,Bogota,8,141397.0
+2025-07-25,Cable Utp Cat6,Carlos Pena,Bogota,6,205971.0
+2025-08-06,Ont Fibra,Carlos Pena,Bogota,3,514227.0
+2026-06-15,Cable Utp Cat6,Luis Gomez,Bucaramanga,5,122860.0
+2026-03-27,Router Wifi 6,Carlos Pena,Medellin,7,200911.0
+2025-01-30,Repetidor Mesh,Luis Gomez,Bogota,8,276863.0
+2026-08-24,Cable Utp Cat6,Ana Torres,Medellin,2,458863.0
+2025-10-22,Router Wifi 6,Ana Torres,Medellin,7,672738.0
+2025-01-25,Repetidor Mesh,Luis Gomez,Bogota,6,209749.0
+2026-05-24,Switch 24P,Carlos Pena,Bogota,3,321240.0
+2025-02-16,Repetidor Mesh,Marta Ruiz,Medellin,2,196832.0
+2025-12-26,Repetidor Mesh,Carlos Pena,Medellin,1,376756.0
+2026-01-20,Repetidor Mesh,Carlos Pena,Medellin,8,54273.0
+2026-01-17,Ont Fibra,Marta Ruiz,Bogota,7,431622.0
+2025-03-20,Repetidor Mesh,Luis Gomez,Medellin,8,142540.0
+2026-01-17,Router Wifi 6,Luis Gomez,Bucaramanga,3,772072.0
+2026-04-12,Router Wifi 6,Luis Gomez,Barranquilla,3,346715.0
+2025-04-02,Cable Utp Cat6,Marta Ruiz,Bogota,6,343957.0
+2025-03-09,Router Wifi 6,Marta Ruiz,Bogota,3,476306.0
+2025-11-05,Antena Sectorial,Ana Torres,Cali,2,339224.0
+2025-06-11,Repetidor Mesh,Ana Torres,Cali,3,302867.0
+2025-08-30,Antena Sectorial,Luis Gomez,Medellin,4,394467.0
+2026-02-15,Ont Fibra,Carlos Pena,Bogota,8,233932.0
+2025-05-11,Repetidor Mesh,Carlos Pena,Bogota,4,112962.0
+2026-08-19,Antena Sectorial,Carlos Pena,Cali,6,361548.0
+2025-06-27,Ont Fibra,Luis Gomez,Medellin,8,597630.0
+2026-02-26,Ont Fibra,Luis Gomez,Medellin,7,327440.0
+2026-01-13,Router Wifi 6,Ana Torres,Cali,4,499301.0
+2025-08-12,Router Wifi 6,Luis Gomez,Medellin,1,275725.0
+2025-05-23,Switch 24P,Marta Ruiz,Medellin,8,149774.0
+2025-11-10,Antena Sectorial,Marta Ruiz,Medellin,1,154898.0
+2025-08-26,Ont Fibra,Ana Torres,Medellin,1,230920.0
+2025-10-30,Router Wifi 6,Ana Torres,Barranquilla,2,310218.0
+2025-04-20,Ont Fibra,Ana Torres,Barranquilla,5,190341.0
+2026-04-10,Ont Fibra,Ana Torres,Bogota,1,283608.0
+2025-12-30,Ont Fibra,Marta Ruiz,Medellin,4,318936.0
+2025-03-10,Cable Utp Cat6,Marta Ruiz,Barranquilla,3,399128.0
+2025-11-24,Ont Fibra,Luis Gomez,Bogota,2,165127.0
+2026-02-20,Ont Fibra,Marta Ruiz,Bogota,3,862242.0
+2026-06-21,Ont Fibra,Luis Gomez,Medellin,4,508437.0
+2025-05-08,Repetidor Mesh,Luis Gomez,Cali,6,768517.0
+2026-08-23,Ont Fibra,Carlos Pena,Bogota,3,179305.0
+2026-07-27,Router Wifi 6,Luis Gomez,Bucaramanga,3,942965.0
+2025-06-02,Antena Sectorial,Marta Ruiz,Barranquilla,2,307883.0
+2025-01-14,Ont Fibra,Ana Torres,Medellin,1,291703.0
+2025-04-27,Router Wifi 6,Luis Gomez,Medellin,3,179833.0
+2026-03-24,Ont Fibra,Carlos Pena,Cali,1,1180005.0
+2025-09-22,Ont Fibra,Ana Torres,Medellin,6,128940.0
+2025-03-22,Antena Sectorial,Marta Ruiz,Medellin,4,140489.0
+2026-01-23,Switch 24P,Luis Gomez,Medellin,4,943360.0
+2026-04-24,Ont Fibra,Ana Torres,Bucaramanga,4,293423.0
+2025-01-17,Ont Fibra,Marta Ruiz,Bucaramanga,7,113574.0
+2025-03-17,Switch 24P,Luis Gomez,Barranquilla,6,447096.0
+2025-10-02,Ont Fibra,Luis Gomez,Bucaramanga,8,628466.0
+2025-11-07,Cable Utp Cat6,Marta Ruiz,Cali,5,155405.0
+2025-06-10,Router Wifi 6,Marta Ruiz,Medellin,3,630163.0
+2026-01-21,Repetidor Mesh,Marta Ruiz,Bogota,8,118501.0
+2025-06-08,Router Wifi 6,Ana Torres,Cali,8,417298.0
+2025-06-06,Repetidor Mesh,Luis Gomez,Medellin,2,166097.0
+2026-01-03,Repetidor Mesh,Marta Ruiz,Bogota,1,385367.0
+2025-08-24,Cable Utp Cat6,Ana Torres,Bogota,7,166159.0
+2025-11-16,Antena Sectorial,Luis Gomez,Medellin,6,169561.0
+2025-08-26,Cable Utp Cat6,Marta Ruiz,Bucaramanga,5,419784.0
+2026-01-07,Ont Fibra,Carlos Pena,Cali,6,545449.0
+2025-08-22,Cable Utp Cat6,Carlos Pena,Barranquilla,8,347153.0
+2026-02-06,Repetidor Mesh,Ana Torres,Medellin,4,172380.0
+2026-04-20,Antena Sectorial,Carlos Pena,Cali,5,578196.0
+2025-03-23,Cable Utp Cat6,Marta Ruiz,Bogota,8,376624.0
+2025-02-19,Router Wifi 6,Marta Ruiz,Bogota,8,112809.0
+2025-08-16,Repetidor Mesh,Carlos Pena,Barranquilla,1,875507.0
+2026-07-28,Repetidor Mesh,Marta Ruiz,Medellin,2,799342.0
+2026-07-18,Repetidor Mesh,Ana Torres,Barranquilla,4,439955.0
+2025-10-23,Switch 24P,Carlos Pena,Medellin,1,348102.0
+2025-01-29,Router Wifi 6,Luis Gomez,Bogota,4,583955.0
+2026-03-05,Repetidor Mesh,Marta Ruiz,Bucaramanga,4,119355.0
+2025-10-24,Antena Sectorial,Luis Gomez,Bogota,5,213307.0
+2025-03-16,Repetidor Mesh,Carlos Pena,Bogota,3,360212.0
+2025-12-24,Router Wifi 6,Luis Gomez,Cali,6,426544.0
+2025-06-20,Router Wifi 6,Luis Gomez,Bogota,5,218720.0
+2026-04-18,Cable Utp Cat6,Luis Gomez,Barranquilla,8,258106.0
+2026-07-20,Ont Fibra,Carlos Pena,Medellin,4,278255.0
+2025-10-18,Cable Utp Cat6,Marta Ruiz,Bogota,7,231620.0
+2025-05-27,Repetidor Mesh,Luis Gomez,Medellin,7,332232.0
+2026-03-19,Cable Utp Cat6,Marta Ruiz,Barranquilla,7,231969.0
+2025-02-11,Cable Utp Cat6,Luis Gomez,Medellin,3,288271.0
+2026-05-21,Router Wifi 6,Luis Gomez,Cali,6,360267.0
+2026-01-24,Switch 24P,Luis Gomez,Medellin,8,275115.0
+2025-04-27,Repetidor Mesh,Ana Torres,Medellin,8,333445.0
+2025-07-17,Repetidor Mesh,Carlos Pena,Cali,3,1070930.0
+2025-02-09,Repetidor Mesh,Marta Ruiz,Barranquilla,4,466456.0
+2026-06-06,Router Wifi 6,Luis Gomez,Bogota,6,118670.0
+2026-06-22,Ont Fibra,Carlos Pena,Bucaramanga,1,421281.0
+2026-04-06,Ont Fibra,Luis Gomez,Medellin,3,368233.0
+2025-04-15,Ont Fibra,Carlos Pena,Bogota,5,245745.0
+2026-08-11,Router Wifi 6,Luis Gomez,Medellin,4,481280.0
+2025-06-06,Cable Utp Cat6,Luis Gomez,Medellin,4,374080.0
+2026-04-25,Antena Sectorial,Marta Ruiz,Medellin,2,106701.0
+2026-03-04,Ont Fibra,Carlos Pena,Bogota,6,810638.0
+2026-06-16,Cable Utp Cat6,Ana Torres,Bucaramanga,3,194824.0
+2025-05-09,Ont Fibra,Carlos Pena,Bogota,3,424010.0
+2026-07-10,Switch 24P,Marta Ruiz,Bogota,5,209013.0
+2026-05-02,Switch 24P,Carlos Pena,Medellin,7,1678755.0
+2025-05-07,Ont Fibra,Marta Ruiz,Bucaramanga,4,323237.0
+2025-02-02,Router Wifi 6,Marta Ruiz,Medellin,7,319237.0
+2026-03-22,Switch 24P,Carlos Pena,Medellin,6,1671556.0
+2025-04-09,Ont Fibra,Luis Gomez,Bogota,1,301148.0
+2026-02-27,Ont Fibra,Marta Ruiz,Cali,8,428478.0
+2026-05-06,Cable Utp Cat6,Carlos Pena,Medellin,3,404431.0
+2025-08-03,Repetidor Mesh,Ana Torres,Bogota,6,279205.0
+2025-08-06,Repetidor Mesh,Marta Ruiz,Bogota,1,1046863.0
+2026-06-09,Switch 24P,Ana Torres,Medellin,7,194078.0
+2026-04-30,Antena Sectorial,Luis Gomez,Cali,7,946458.0
+2025-09-19,Ont Fibra,Carlos Pena,Cali,5,502035.0
+2026-08-07,Cable Utp Cat6,Luis Gomez,Medellin,3,503738.0
+2025-08-11,Router Wifi 6,Marta Ruiz,Cali,3,1516679.0
+2026-08-06,Router Wifi 6,Marta Ruiz,Medellin,2,431002.0
+2025-04-14,Cable Utp Cat6,Luis Gomez,Medellin,3,186445.0
+2026-01-06,Switch 24P,Ana Torres,Barranquilla,6,323935.0
+2025-02-18,Cable Utp Cat6,Luis Gomez,Bogota,8,718297.0
+2025-12-06,Cable Utp Cat6,Marta Ruiz,Medellin,1,262513.0
+2025-12-01,Repetidor Mesh,Ana Torres,Bogota,4,772437.0
+2025-09-01,Ont Fibra,Marta Ruiz,Bogota,6,493199.0
+2026-06-05,Ont Fibra,Carlos Pena,Bogota,3,1099893.0
+2025-08-10,Repetidor Mesh,Luis Gomez,Bogota,1,158656.0
+2025-10-26,Ont Fibra,Ana Torres,Cali,6,235701.0
+2025-12-18,Antena Sectorial,Marta Ruiz,Medellin,3,562443.0
+2025-11-14,Router Wifi 6,Marta Ruiz,Medellin,7,543618.0
+2026-08-05,Router Wifi 6,Ana Torres,Bogota,2,401501.0
+2026-02-11,Antena Sectorial,Luis Gomez,Bogota,7,233682.0
+2025-09-22,Cable Utp Cat6,Carlos Pena,Medellin,4,115766.0
+2026-01-05,Antena Sectorial,Luis Gomez,Medellin,3,429562.0
+2025-04-01,Repetidor Mesh,Carlos Pena,Medellin,5,559016.0
+2026-04-28,Antena Sectorial,Ana Torres,Cali,1,293897.0
+2025-07-20,Ont Fibra,Carlos Pena,Cali,4,388703.0
+2025-07-11,Cable Utp Cat6,Marta Ruiz,Cali,1,288000.0
+2026-05-30,Ont Fibra,Carlos Pena,Barranquilla,1,231725.0
+2026-04-09,Switch 24P,Marta Ruiz,Bucaramanga,5,113731.0
+2025-04-01,Switch 24P,Carlos Pena,Cali,1,165247.0
+2026-05-29,Switch 24P,Carlos Pena,Bogota,1,421892.0
+2026-08-09,Switch 24P,Ana Torres,Medellin,2,762298.0
+2025-03-21,Ont Fibra,Luis Gomez,Medellin,6,318012.0
+2025-10-27,Cable Utp Cat6,Luis Gomez,Bogota,5,193829.0
+2025-10-15,Switch 24P,Carlos Pena,Cali,1,158049.0
+2026-05-22,Router Wifi 6,Carlos Pena,Cali,1,170125.0
+2025-07-03,Cable Utp Cat6,Ana Torres,Cali,7,121384.0
+2025-07-31,Antena Sectorial,Marta Ruiz,Bogota,3,280529.0
+2025-09-12,Repetidor Mesh,Ana Torres,Barranquilla,7,189535.0
+2025-07-12,Switch 24P,Carlos Pena,Cali,8,802776.0
+2025-03-31,Cable Utp Cat6,Ana Torres,Medellin,8,549356.0
+2026-06-20,Antena Sectorial,Ana Torres,Bogota,8,655771.0
+2025-11-03,Router Wifi 6,Ana Torres,Cali,6,716475.0
+2026-03-31,Cable Utp Cat6,Ana Torres,Medellin,3,337057.0
+2025-05-24,Ont Fibra,Marta Ruiz,Medellin,1,317807.0
+2026-05-23,Ont Fibra,Luis Gomez,Bogota,7,2123883.0
+2026-08-22,Antena Sectorial,Luis Gomez,Barranquilla,3,333649.0
+2025-11-09,Switch 24P,Ana Torres,Medellin,8,802233.0
+2026-06-30,Switch 24P,Luis Gomez,Bogota,5,422482.0
+2025-01-31,Ont Fibra,Carlos Pena,Medellin,7,327186.0
+2025-07-27,Repetidor Mesh,Carlos Pena,Medellin,6,485265.0
+2026-06-07,Ont Fibra,Ana Torres,Medellin,4,310290.0
+2025-05-20,Ont Fibra,Luis Gomez,Bogota,5,1310081.0
+2025-07-04,Switch 24P,Ana Torres,Barranquilla,8,1193055.0
+2025-01-10,Repetidor Mesh,Luis Gomez,Bucaramanga,7,205654.0
+2025-08-28,Switch 24P,Luis Gomez,Cali,5,421627.0
+2026-05-26,Router Wifi 6,Marta Ruiz,Bogota,3,653849.0
+2026-01-29,Ont Fibra,Luis Gomez,Bogota,5,501135.0
+2025-02-20,Antena Sectorial,Ana Torres,Medellin,3,494863.0
+2025-09-25,Repetidor Mesh,Carlos Pena,Medellin,1,725672.0
+2025-04-07,Antena Sectorial,Luis Gomez,Barranquilla,3,150434.0
+2026-05-12,Cable Utp Cat6,Carlos Pena,Bucaramanga,6,241317.0
+2025-01-09,Antena Sectorial,Carlos Pena,Barranquilla,6,812507.0
+2026-05-30,Ont Fibra,Marta Ruiz,Barranquilla,2,1235333.0
+2026-02-28,Router Wifi 6,Ana Torres,Barranquilla,4,361141.0
+2026-07-20,Switch 24P,Ana Torres,Barranquilla,4,717304.0
+2025-03-07,Switch 24P,Luis Gomez,Bogota,6,676456.0
+2025-12-14,Router Wifi 6,Marta Ruiz,Bogota,6,200545.0
+2025-10-30,Ont Fibra,Marta Ruiz,Medellin,7,541281.0
+2025-02-26,Antena Sectorial,Marta Ruiz,Cali,6,958291.0
+2026-01-21,Antena Sectorial,Marta Ruiz,Cali,4,481371.0
+2025-08-20,Ont Fibra,Marta Ruiz,Bogota,8,1452878.0
+2025-06-20,Repetidor Mesh,Marta Ruiz,Cali,4,28402.0
+2025-04-12,Cable Utp Cat6,Luis Gomez,Medellin,1,279296.0
+2025-09-20,Router Wifi 6,Carlos Pena,Bogota,6,255149.0
+2026-08-20,Antena Sectorial,Ana Torres,Bogota,2,393156.0
+2026-08-12,Switch 24P,Luis Gomez,Medellin,4,446778.0
+2025-02-11,Router Wifi 6,Ana Torres,Cali,7,499998.0
+2026-07-23,Router Wifi 6,Luis Gomez,Barranquilla,8,633496.0
+2025-04-04,Ont Fibra,Marta Ruiz,Cali,7,920294.0
+2026-04-26,Antena Sectorial,Marta Ruiz,Barranquilla,6,499745.0
+2026-03-07,Antena Sectorial,Marta Ruiz,Medellin,2,226128.0
+2025-02-10,Router Wifi 6,Luis Gomez,Bucaramanga,2,505522.0
+2025-12-12,Ont Fibra,Carlos Pena,Bucaramanga,1,345664.0
+2026-08-03,Ont Fibra,Carlos Pena,Barranquilla,5,982745.0
+2025-12-17,Ont Fibra,Marta Ruiz,Bogota,8,341407.0
+2025-12-25,Cable Utp Cat6,Carlos Pena,Barranquilla,6,128922.0
+2026-07-01,Repetidor Mesh,Carlos Pena,Cali,8,157537.0
+2025-08-17,Switch 24P,Marta Ruiz,Bucaramanga,6,755030.0
+2026-05-06,Switch 24P,Luis Gomez,Bogota,5,84894.0
+2026-03-25,Router Wifi 6,Marta Ruiz,Bucaramanga,6,340414.0
+2025-09-15,Antena Sectorial,Marta Ruiz,Medellin,2,371674.0
+2025-01-21,Repetidor Mesh,Marta Ruiz,Medellin,5,260271.0
+2025-02-05,Cable Utp Cat6,Carlos Pena,Barranquilla,3,330258.0
+2026-03-26,Cable Utp Cat6,Ana Torres,Bogota,5,408202.0
+2025-04-30,Cable Utp Cat6,Marta Ruiz,Medellin,1,137899.0
+2025-01-24,Switch 24P,Ana Torres,Barranquilla,7,326504.0
+2025-02-13,Antena Sectorial,Luis Gomez,Medellin,8,182762.0
+2025-09-20,Cable Utp Cat6,Luis Gomez,Medellin,4,309224.0
+2025-04-16,Repetidor Mesh,Luis Gomez,Cali,7,316085.0
+2026-08-11,Switch 24P,Carlos Pena,Cali,8,710290.0
+2025-04-21,Switch 24P,Carlos Pena,Bogota,4,405844.0
+2025-06-16,Cable Utp Cat6,Ana Torres,Cali,2,261089.0
+2026-03-23,Repetidor Mesh,Ana Torres,Bucaramanga,8,440105.0
+2025-04-19,Cable Utp Cat6,Luis Gomez,Bogota,3,1088351.0
+2026-02-25,Antena Sectorial,Carlos Pena,Cali,4,1601229.0
+2025-08-09,Repetidor Mesh,Carlos Pena,Medellin,7,333647.0
+2026-05-31,Switch 24P,Carlos Pena,Bogota,1,260978.0
+2025-09-07,Switch 24P,Luis Gomez,Cali,1,303149.0
+2025-10-04,Switch 24P,Marta Ruiz,Bogota,7,944797.0
+2025-10-18,Antena Sectorial,Carlos Pena,Cali,5,186247.0
+2026-02-24,Switch 24P,Luis Gomez,Bogota,5,727642.0
+2025-11-18,Switch 24P,Marta Ruiz,Medellin,1,1420323.0
+2026-04-08,Router Wifi 6,Carlos Pena,Medellin,4,636284.0
+2025-05-03,Switch 24P,Carlos Pena,Medellin,8,309265.0
+2025-09-05,Antena Sectorial,Marta Ruiz,Bucaramanga,4,78674.0
+2026-06-17,Router Wifi 6,Ana Torres,Medellin,3,155799.0
+2025-02-09,Switch 24P,Ana Torres,Cali,2,262812.0
+2026-04-20,Repetidor Mesh,Ana Torres,Cali,8,632054.0
+2026-04-15,Switch 24P,Luis Gomez,Medellin,6,286720.0
+2025-04-26,Switch 24P,Carlos Pena,Medellin,4,310427.0
+2026-01-27,Repetidor Mesh,Luis Gomez,Medellin,8,303617.0
+2026-06-04,Switch 24P,Ana Torres,Medellin,6,608490.0
+2026-03-11,Router Wifi 6,Luis Gomez,Cali,7,310234.0
+2026-03-04,Router Wifi 6,Marta Ruiz,Barranquilla,1,667436.0
+2025-01-20,Repetidor Mesh,Carlos Pena,Cali,8,336668.0
+2025-07-21,Repetidor Mesh,Carlos Pena,Bogota,8,284063.0
+2026-05-24,Cable Utp Cat6,Ana Torres,Medellin,3,364559.0
+2026-06-28,Cable Utp Cat6,Marta Ruiz,Bogota,5,456062.0
+2025-01-16,Switch 24P,Ana Torres,Medellin,2,71758.0
+2025-07-31,Switch 24P,Carlos Pena,Cali,2,247735.0
+2025-06-22,Cable Utp Cat6,Ana Torres,Medellin,7,135238.0
+2025-06-03,Antena Sectorial,Carlos Pena,Bucaramanga,5,437476.0
+2025-03-03,Antena Sectorial,Marta Ruiz,Bucaramanga,2,219825.0
+2025-10-10,Repetidor Mesh,Luis Gomez,Medellin,5,212243.0
+2026-01-02,Repetidor Mesh,Carlos Pena,Bucaramanga,3,293688.0
+2026-04-01,Antena Sectorial,Marta Ruiz,Medellin,5,596592.0
+2025-06-01,Cable Utp Cat6,Ana Torres,Cali,4,93920.0
+2026-08-21,Repetidor Mesh,Luis Gomez,Medellin,8,771390.0
+2026-07-19,Router Wifi 6,Luis Gomez,Medellin,2,104127.0
+2025-10-13,Repetidor Mesh,Marta Ruiz,Medellin,5,135106.0
+2025-05-29,Antena Sectorial,Ana Torres,Bogota,1,168719.0
+2026-05-09,Repetidor Mesh,Luis Gomez,Bucaramanga,8,351475.0
+2026-08-23,Ont Fibra,Marta Ruiz,Cali,5,658379.0
+2025-12-31,Antena Sectorial,Ana Torres,Cali,3,261280.0
+2026-08-16,Switch 24P,Carlos Pena,Bogota,7,287238.0
+2025-10-25,Repetidor Mesh,Ana Torres,Medellin,4,659143.0
+2026-06-16,Ont Fibra,Luis Gomez,Bogota,8,220140.0
+2025-05-13,Switch 24P,Ana Torres,Medellin,2,286886.0
+2025-07-13,Cable Utp Cat6,Ana Torres,Bogota,8,328172.0
+2025-02-17,Repetidor Mesh,Ana Torres,Cali,3,596847.0
+2025-11-01,Switch 24P,Ana Torres,Bucaramanga,1,154492.0
+2026-07-30,Antena Sectorial,Carlos Pena,Barranquilla,8,2555016.0
+2025-02-21,Ont Fibra,Carlos Pena,Cali,6,68386.0
+2026-01-19,Switch 24P,Ana Torres,Bucaramanga,6,734866.0
+2025-12-26,Cable Utp Cat6,Luis Gomez,Medellin,2,130900.0
+2025-10-16,Switch 24P,Marta Ruiz,Bucaramanga,3,245240.0
+2025-10-05,Switch 24P,Marta Ruiz,Bogota,8,942338.0
+2025-02-28,Antena Sectorial,Carlos Pena,Bogota,4,398647.0
+2026-07-14,Ont Fibra,Luis Gomez,Bogota,6,191721.0
+2026-05-25,Ont Fibra,Carlos Pena,Medellin,1,572931.0
+2025-01-14,Antena Sectorial,Carlos Pena,Bogota,5,502471.0
+2026-03-29,Ont Fibra,Ana Torres,Bogota,3,616907.0
+2025-12-22,Switch 24P,Ana Torres,Barranquilla,3,175625.0
+2025-10-31,Cable Utp Cat6,Ana Torres,Cali,1,547987.0
+2025-12-20,Antena Sectorial,Luis Gomez,Cali,6,311523.0
+2025-09-30,Router Wifi 6,Carlos Pena,Bogota,3,401805.0
+2025-11-26,Router Wifi 6,Marta Ruiz,Medellin,5,653243.0
+2026-05-11,Repetidor Mesh,Marta Ruiz,Medellin,3,254762.0
+2025-09-03,Antena Sectorial,Ana Torres,Bucaramanga,1,95588.0
+2025-11-05,Repetidor Mesh,Marta Ruiz,Medellin,4,96070.0
+2025-07-01,Switch 24P,Luis Gomez,Barranquilla,2,126229.0
+2026-06-14,Router Wifi 6,Ana Torres,Medellin,1,1274898.0
+2026-07-06,Switch 24P,Carlos Pena,Medellin,1,227489.0
+2025-06-14,Switch 24P,Marta Ruiz,Medellin,5,566360.0
+2025-10-17,Cable Utp Cat6,Ana Torres,Barranquilla,6,333530.0
+2026-02-26,Switch 24P,Carlos Pena,Bogota,6,355942.0
+2025-05-19,Antena Sectorial,Marta Ruiz,Barranquilla,6,616120.0
+2025-03-09,Ont Fibra,Luis Gomez,Bogota,2,116831.0
+2025-11-11,Antena Sectorial,Carlos Pena,Cali,6,200671.0
+2026-08-03,Repetidor Mesh,Marta Ruiz,Bucaramanga,4,274774.0
+2025-11-27,Cable Utp Cat6,Ana Torres,Cali,1,124523.0
+2025-04-25,Cable Utp Cat6,Carlos Pena,Medellin,2,84271.0
+2026-02-01,Ont Fibra,Carlos Pena,Barranquilla,1,204353.0
+2026-05-26,Cable Utp Cat6,Ana Torres,Bogota,2,166794.0
+2025-08-02,Switch 24P,Carlos Pena,Bogota,5,361405.0
+2025-09-01,Antena Sectorial,Carlos Pena,Cali,5,1375773.0
+2025-04-06,Antena Sectorial,Marta Ruiz,Medellin,6,277167.0
+2025-07-07,Antena Sectorial,Carlos Pena,Barranquilla,7,436246.0
+2025-09-17,Cable Utp Cat6,Carlos Pena,Medellin,1,784861.0
+2026-05-07,Ont Fibra,Marta Ruiz,Bogota,6,492850.0
+2025-03-04,Switch 24P,Luis Gomez,Medellin,2,735456.0
+2026-05-08,Antena Sectorial,Marta Ruiz,Barranquilla,2,476743.0
+2025-07-09,Ont Fibra,Carlos Pena,Barranquilla,4,350029.0
+2025-11-06,Ont Fibra,Luis Gomez,Medellin,8,569886.0
+2026-06-24,Router Wifi 6,Carlos Pena,Medellin,1,984417.0
+2026-01-10,Cable Utp Cat6,Carlos Pena,Medellin,5,446378.0
+2025-05-19,Router Wifi 6,Marta Ruiz,Bogota,4,463273.0
+2025-09-28,Switch 24P,Ana Torres,Bucaramanga,1,258448.0
+2025-08-18,Router Wifi 6,Ana Torres,Cali,6,407859.0
+2025-09-04,Router Wifi 6,Ana Torres,Medellin,4,453024.0
+2025-01-20,Repetidor Mesh,Carlos Pena,Barranquilla,4,366720.0
+2025-08-22,Antena Sectorial,Ana Torres,Bucaramanga,8,121902.0
+2026-08-02,Cable Utp Cat6,Ana Torres,Bogota,5,506175.0
+2025-08-14,Antena Sectorial,Ana Torres,Cali,5,131516.0
+2025-07-29,Cable Utp Cat6,Marta Ruiz,Barranquilla,4,316057.0
+2026-07-14,Cable Utp Cat6,Ana Torres,Cali,4,188620.0
+2025-08-27,Repetidor Mesh,Ana Torres,Medellin,4,289136.0
+2026-08-15,Router Wifi 6,Marta Ruiz,Cali,4,562778.0
+2025-06-13,Ont Fibra,Marta Ruiz,Barranquilla,5,229598.0
+2025-08-04,Repetidor Mesh,Marta Ruiz,Cali,7,175571.0
+2026-08-01,Router Wifi 6,Carlos Pena,Medellin,5,271987.0
+2025-06-27,Cable Utp Cat6,Luis Gomez,Bogota,2,494574.0
+2025-03-11,Ont Fibra,Marta Ruiz,Barranquilla,3,86790.0
+2026-04-07,Antena Sectorial,Luis Gomez,Bucaramanga,8,288693.0
+2026-08-17,Repetidor Mesh,Luis Gomez,Medellin,1,323903.0
+2026-06-22,Router Wifi 6,Luis Gomez,Bogota,2,625184.0
+2025-03-05,Cable Utp Cat6,Marta Ruiz,Bogota,2,500740.0
+2025-12-12,Repetidor Mesh,Marta Ruiz,Bucaramanga,1,937034.0
+2025-08-12,Repetidor Mesh,Marta Ruiz,Bogota,2,287486.0
+2026-02-28,Router Wifi 6,Marta Ruiz,Barranquilla,3,1011405.0
+2025-10-19,Cable Utp Cat6,Luis Gomez,Medellin,5,275732.0
+2026-07-22,Cable Utp Cat6,Luis Gomez,Bogota,1,202760.0
+2026-03-28,Repetidor Mesh,Marta Ruiz,Bogota,4,108892.0
+2025-11-23,Ont Fibra,Luis Gomez,Medellin,7,109646.0
+2026-02-02,Repetidor Mesh,Luis Gomez,Bogota,5,631557.0
+2026-06-25,Antena Sectorial,Ana Torres,Bogota,5,522979.0
+2025-06-26,Ont Fibra,Carlos Pena,Cali,1,336085.0
+2025-07-26,Ont Fibra,Ana Torres,Cali,2,1103631.0
+2025-04-07,Repetidor Mesh,Marta Ruiz,Bucaramanga,1,712799.0
+2025-03-27,Cable Utp Cat6,Marta Ruiz,Cali,1,284189.0
+2025-11-29,Router Wifi 6,Marta Ruiz,Bogota,7,1003564.0
+2025-03-19,Switch 24P,Luis Gomez,Bogota,8,523732.0
+2025-03-01,Switch 24P,Carlos Pena,Cali,3,264126.0
+2026-02-20,Repetidor Mesh,Luis Gomez,Bogota,4,1317493.0
+2025-12-11,Repetidor Mesh,Marta Ruiz,Medellin,4,338473.0
+2025-11-21,Switch 24P,Carlos Pena,Medellin,1,397033.0
+2026-03-01,Repetidor Mesh,Ana Torres,Medellin,2,1112468.0
+2025-02-23,Antena Sectorial,Ana Torres,Bogota,4,783192.0
+2026-08-17,Switch 24P,Luis Gomez,Cali,8,502245.0
+2026-06-20,Switch 24P,Luis Gomez,Bucaramanga,3,357754.0
+2025-07-05,Antena Sectorial,Ana Torres,Cali,3,980880.0
+2025-09-24,Router Wifi 6,Marta Ruiz,Barranquilla,7,402541.0
+2025-04-17,Antena Sectorial,Luis Gomez,Bucaramanga,1,237213.0
+2025-05-11,Router Wifi 6,Ana Torres,Medellin,3,649395.0
+2026-07-24,Antena Sectorial,Carlos Pena,Bogota,6,255683.0
+2025-05-09,Repetidor Mesh,Ana Torres,Bogota,4,529974.0
+2025-02-07,Repetidor Mesh,Luis Gomez,Barranquilla,1,535498.0
+2025-01-30,Antena Sectorial,Luis Gomez,Bogota,3,194263.0
+2025-10-09,Router Wifi 6,Marta Ruiz,Bucaramanga,2,1134010.0
+2026-06-29,Ont Fibra,Ana Torres,Cali,7,140927.0
+2025-05-23,Antena Sectorial,Ana Torres,Medellin,1,591520.0
+2025-09-11,Switch 24P,Marta Ruiz,Medellin,3,1847659.0
+2025-11-08,Router Wifi 6,Ana Torres,Medellin,1,334753.0
+2025-11-13,Antena Sectorial,Carlos Pena,Medellin,3,191442.0
+2025-12-14,Switch 24P,Ana Torres,Barranquilla,5,321406.0
+2025-02-23,Ont Fibra,Carlos Pena,Bogota,2,511858.0
+2025-06-18,Switch 24P,Carlos Pena,Bogota,2,193497.0
+2025-07-24,Ont Fibra,Luis Gomez,Medellin,1,317172.0
+2026-01-26,Switch 24P,Luis Gomez,Barranquilla,7,1202064.0
+2026-07-02,Repetidor Mesh,Carlos Pena,Medellin,7,316643.0
+2026-08-14,Antena Sectorial,Carlos Pena,Cali,3,366542.0
+2025-11-23,Antena Sectorial,Luis Gomez,Cali,4,161715.0
+2025-11-07,Cable Utp Cat6,Marta Ruiz,Bogota,4,90261.0
+2025-01-08,Repetidor Mesh,Luis Gomez,Barranquilla,4,310966.0
+2025-07-10,Router Wifi 6,Carlos Pena,Cali,4,146687.0
+2025-06-22,Antena Sectorial,Luis Gomez,Cali,5,337454.0
+2025-06-02,Repetidor Mesh,Carlos Pena,Medellin,1,470912.0
+2026-03-23,Switch 24P,Carlos Pena,Barranquilla,4,391498.0
+2026-07-29,Switch 24P,Ana Torres,Barranquilla,3,251978.0
+2026-01-23,Repetidor Mesh,Luis Gomez,Bogota,2,225533.0
+2025-05-30,Ont Fibra,Luis Gomez,Medellin,4,103426.0
+2025-10-14,Switch 24P,Carlos Pena,Cali,2,772301.0
+2025-09-07,Cable Utp Cat6,Marta Ruiz,Barranquilla,8,575946.0
+2025-02-19,Switch 24P,Ana Torres,Medellin,1,167795.0
+2025-09-03,Repetidor Mesh,Ana Torres,Medellin,1,352889.0
+2026-01-25,Cable Utp Cat6,Marta Ruiz,Cali,8,445360.0
+2025-01-18,Cable Utp Cat6,Carlos Pena,Medellin,1,250651.0
+2025-02-25,Switch 24P,Carlos Pena,Medellin,2,231671.0
+2026-01-03,Router Wifi 6,Luis Gomez,Cali,5,237615.0
+2026-08-10,Repetidor Mesh,Ana Torres,Medellin,2,1915754.0
+2025-03-29,Ont Fibra,Luis Gomez,Barranquilla,4,408234.0
+2025-06-05,Switch 24P,Luis Gomez,Medellin,4,152615.0
+2025-02-01,Ont Fibra,Ana Torres,Bucaramanga,1,120260.0
+2025-12-13,Switch 24P,Carlos Pena,Bucaramanga,1,1443999.0
+2026-01-19,Ont Fibra,Ana Torres,Bucaramanga,4,324620.0
+2026-01-22,Repetidor Mesh,Carlos Pena,Bogota,2,137282.0
+2026-05-13,Repetidor Mesh,Ana Torres,Bogota,2,373847.0
+2026-02-21,Switch 24P,Luis Gomez,Bogota,5,465442.0
+2025-09-10,Ont Fibra,Marta Ruiz,Bogota,4,547667.0
+2026-08-25,Router Wifi 6,Luis Gomez,Barranquilla,8,180723.0
+2025-11-28,Switch 24P,Marta Ruiz,Medellin,8,270845.0
+2026-08-08,Cable Utp Cat6,Marta Ruiz,Medellin,4,731077.0
+2026-04-13,Antena Sectorial,Ana Torres,Medellin,7,643163.0
+2025-06-25,Router Wifi 6,Ana Torres,Cali,8,313599.0
+2025-07-11,Ont Fibra,Ana Torres,Medellin,4,268888.0
+2026-03-02,Switch 24P,Marta Ruiz,Barranquilla,8,179045.0
+2026-01-31,Antena Sectorial,Luis Gomez,Bucaramanga,7,768860.0
+2026-07-03,Router Wifi 6,Carlos Pena,Bucaramanga,3,365687.0
+2025-11-03,Router Wifi 6,Carlos Pena,Cali,5,362902.0
+2025-08-05,Ont Fibra,Ana Torres,Medellin,7,187089.0
+2025-10-20,Switch 24P,Ana Torres,Bucaramanga,7,160459.0
+2026-03-21,Router Wifi 6,Ana Torres,Cali,5,925249.0
+2025-07-22,Ont Fibra,Marta Ruiz,Bogota,1,344803.0
+2025-10-21,Repetidor Mesh,Ana Torres,Barranquilla,1,334533.0
+2026-07-16,Cable Utp Cat6,Ana Torres,Medellin,5,81393.0
+2025-10-22,Antena Sectorial,Luis Gomez,Bucaramanga,8,110223.0
+2025-08-08,Repetidor Mesh,Ana Torres,Cali,8,385614.0
+2025-09-29,Repetidor Mesh,Luis Gomez,Barranquilla,2,742275.0
+2025-06-29,Cable Utp Cat6,Marta Ruiz,Bogota,7,479940.0
+2026-01-14,Router Wifi 6,Marta Ruiz,Cali,4,422244.0
+2026-02-08,Repetidor Mesh,Carlos Pena,Bucaramanga,3,351159.0
+2026-05-22,Repetidor Mesh,Marta Ruiz,Bucaramanga,8,290045.0
+2025-07-08,Ont Fibra,Carlos Pena,Bogota,5,396510.0
+2026-03-15,Cable Utp Cat6,Ana Torres,Cali,6,617542.0
+2026-04-19,Cable Utp Cat6,Luis Gomez,Bucaramanga,2,1362860.0
+2026-01-07,Antena Sectorial,Marta Ruiz,Medellin,4,259208.0
+2026-04-16,Antena Sectorial,Marta Ruiz,Cali,4,936902.0
+2026-07-07,Cable Utp Cat6,Ana Torres,Medellin,1,380668.0
+2025-06-07,Ont Fibra,Ana Torres,Barranquilla,5,179655.0
+2025-06-16,Router Wifi 6,Marta Ruiz,Medellin,4,772151.0
+2025-12-04,Router Wifi 6,Luis Gomez,Medellin,2,170312.0
+2025-08-13,Antena Sectorial,Marta Ruiz,Bucaramanga,3,152929.0
+2026-05-17,Antena Sectorial,Marta Ruiz,Barranquilla,7,1129963.0
+2025-10-14,Switch 24P,Ana Torres,Cali,3,445174.0
+2025-12-30,Antena Sectorial,Carlos Pena,Medellin,5,401989.0
+2025-04-22,Switch 24P,Carlos Pena,Bucaramanga,3,905778.0
+2025-04-13,Router Wifi 6,Luis Gomez,Bogota,2,316894.0
+2025-06-04,Ont Fibra,Luis Gomez,Bogota,2,153625.0
+2026-04-04,Repetidor Mesh,Marta Ruiz,Bogota,5,174182.0
+2025-03-08,Ont Fibra,Marta Ruiz,Bogota,4,306157.0
+2025-05-31,Switch 24P,Marta Ruiz,Bogota,6,155386.0
+2026-02-05,Ont Fibra,Luis Gomez,Barranquilla,4,289735.0
+2026-04-14,Ont Fibra,Luis Gomez,Bogota,1,1764780.0
+2025-11-15,Repetidor Mesh,Ana Torres,Cali,5,199230.0
+2026-02-08,Repetidor Mesh,Ana Torres,Barranquilla,8,565542.0
+2026-06-27,Router Wifi 6,Carlos Pena,Medellin,3,344778.0
+2025-01-27,Router Wifi 6,Ana Torres,Cali,5,665843.0
+2025-05-29,Switch 24P,Marta Ruiz,Medellin,4,331015.0
+2025-02-21,Antena Sectorial,Marta Ruiz,Bogota,6,215397.0
+2025-05-31,Antena Sectorial,Ana Torres,Medellin,5,284105.0
+2025-05-26,Antena Sectorial,Carlos Pena,Cali,6,65979.0
+2026-06-19,Antena Sectorial,Marta Ruiz,Bogota,8,88216.0
+2025-09-23,Ont Fibra,Carlos Pena,Barranquilla,4,620509.0
+2026-08-21,Antena Sectorial,Luis Gomez,Bogota,8,193515.0
+2025-09-05,Repetidor Mesh,Carlos Pena,Bucaramanga,4,117788.0
+2025-01-12,Antena Sectorial,Carlos Pena,Bogota,8,322454.0
+2026-06-11,Switch 24P,Luis Gomez,Bogota,5,125955.0
+2025-08-20,Switch 24P,Marta Ruiz,Cali,2,290009.0
+2025-05-16,Repetidor Mesh,Marta Ruiz,Barranquilla,1,226946.0
+2026-04-12,Antena Sectorial,Luis Gomez,Bogota,3,771661.0
+2025-06-09,Repetidor Mesh,Luis Gomez,Cali,2,1477653.0
+2026-04-11,Repetidor Mesh,Luis Gomez,Barranquilla,5,2516715.0
+2025-10-10,Antena Sectorial,Marta Ruiz,Cali,6,390105.0
+2026-05-31,Switch 24P,Ana Torres,Cali,6,410034.0
+2026-02-12,Cable Utp Cat6,Marta Ruiz,Medellin,2,67574.0
+2026-05-04,Antena Sectorial,Luis Gomez,Medellin,3,154001.0
+2025-07-21,Antena Sectorial,Luis Gomez,Barranquilla,5,273840.0
+2025-02-15,Cable Utp Cat6,Ana Torres,Medellin,1,124718.0
+2026-02-12,Ont Fibra,Marta Ruiz,Bogota,2,191715.0
+2025-01-13,Router Wifi 6,Luis Gomez,Medellin,8,148330.0
+2025-10-20,Repetidor Mesh,Luis Gomez,Cali,2,131814.0
+2026-05-28,Ont Fibra,Marta Ruiz,Barranquilla,2,471237.0
+2025-05-22,Cable Utp Cat6,Ana Torres,Bogota,3,90302.0
+2025-03-05,Switch 24P,Marta Ruiz,Cali,5,301430.0
+2025-07-27,Cable Utp Cat6,Ana Torres,Medellin,2,349216.0
+2025-08-19,Cable Utp Cat6,Marta Ruiz,Barranquilla,6,508677.0
+2025-09-14,Switch 24P,Luis Gomez,Medellin,2,298114.0
+2025-08-21,Cable Utp Cat6,Luis Gomez,Medellin,6,215518.0
+2025-11-13,Cable Utp Cat6,Ana Torres,Bogota,6,204242.0
+2026-05-15,Switch 24P,Marta Ruiz,Medellin,5,1031053.0
+2026-01-05,Repetidor Mesh,Ana Torres,Bucaramanga,6,400939.0
+2026-02-06,Cable Utp Cat6,Luis Gomez,Bogota,7,479613.0
+2026-04-10,Ont Fibra,Luis Gomez,Barranquilla,2,172943.0
+2025-01-26,Antena Sectorial,Carlos Pena,Barranquilla,7,144131.0
+2026-08-04,Cable Utp Cat6,Luis Gomez,Bucaramanga,3,107458.0
+2026-03-17,Ont Fibra,Ana Torres,Bogota,1,186336.0
+2026-03-25,Repetidor Mesh,Carlos Pena,Cali,5,179744.0
+2025-04-29,Antena Sectorial,Carlos Pena,Bucaramanga,4,211139.0
+2026-06-13,Cable Utp Cat6,Marta Ruiz,Bucaramanga,3,489874.0
+2025-10-02,Ont Fibra,Marta Ruiz,Bogota,3,486574.0
+2026-06-01,Antena Sectorial,Carlos Pena,Barranquilla,2,1179105.0
+2026-07-16,Switch 24P,Marta Ruiz,Medellin,7,133061.0
+2025-05-17,Switch 24P,Carlos Pena,Bucaramanga,6,125487.0
+2025-07-17,Cable Utp Cat6,Luis Gomez,Bogota,6,680653.0
+2026-01-27,Antena Sectorial,Marta Ruiz,Medellin,6,336661.0
+2026-08-13,Antena Sectorial,Ana Torres,Cali,6,1521144.0
+2025-12-09,Switch 24P,Carlos Pena,Medellin,5,333664.0
+2026-07-21,Antena Sectorial,Ana Torres,Medellin,1,598163.0
+2026-06-08,Ont Fibra,Carlos Pena,Cali,6,579833.0
+2026-07-02,Cable Utp Cat6,Marta Ruiz,Medellin,7,108503.0
+2026-08-19,Ont Fibra,Luis Gomez,Medellin,2,169620.0
+2025-11-25,Antena Sectorial,Luis Gomez,Medellin,3,618044.0
+2026-06-30,Cable Utp Cat6,Luis Gomez,Bogota,3,1330280.0
+2026-06-26,Switch 24P,Carlos Pena,Medellin,4,130791.0
+2025-04-03,Router Wifi 6,Carlos Pena,Bogota,1,98499.0
+2025-02-13,Ont Fibra,Marta Ruiz,Bogota,6,353422.0
+2026-04-08,Repetidor Mesh,Ana Torres,Medellin,7,318509.0
+2025-01-22,Repetidor Mesh,Carlos Pena,Bogota,8,45365.0
+2025-03-12,Repetidor Mesh,Ana Torres,Bucaramanga,7,245191.0
+2025-12-23,Antena Sectorial,Marta Ruiz,Barranquilla,2,237080.0
+2026-01-30,Cable Utp Cat6,Marta Ruiz,Medellin,3,490278.0
+2026-06-04,Cable Utp Cat6,Ana Torres,Cali,2,635003.0
+2025-12-16,Switch 24P,Luis Gomez,Cali,5,226037.0
+2025-07-29,Repetidor Mesh,Ana Torres,Medellin,5,144594.0
+2026-02-10,Repetidor Mesh,Marta Ruiz,Barranquilla,4,102510.0
+2025-06-21,Cable Utp Cat6,Ana Torres,Medellin,4,885281.0
+2026-01-01,Ont Fibra,Carlos Pena,Medellin,2,271496.0
+2025-11-20,Repetidor Mesh,Luis Gomez,Bucaramanga,1,343928.0
+2025-10-24,Antena Sectorial,Luis Gomez,Medellin,8,166946.0
+2026-03-10,Router Wifi 6,Ana Torres,Medellin,4,259847.0
+2025-11-17,Antena Sectorial,Luis Gomez,Bucaramanga,3,141596.0
+2025-01-19,Cable Utp Cat6,Marta Ruiz,Barranquilla,7,115605.0
+2025-02-15,Repetidor Mesh,Carlos Pena,Medellin,4,334127.0
+2025-04-13,Router Wifi 6,Ana Torres,Medellin,1,647194.0
+2025-11-21,Ont Fibra,Luis Gomez,Bucaramanga,8,365637.0
+2026-05-02,Switch 24P,Marta Ruiz,Medellin,4,386903.0
+2026-07-15,Router Wifi 6,Ana Torres,Cali,3,275231.0
+2026-06-10,Switch 24P,Luis Gomez,Bucaramanga,4,293329.0
+2025-06-24,Switch 24P,Carlos Pena,Medellin,6,367133.0
+2025-02-08,Antena Sectorial,Luis Gomez,Medellin,2,319946.0
+2025-04-29,Cable Utp Cat6,Ana Torres,Medellin,1,284342.0
+2025-01-28,Router Wifi 6,Carlos Pena,Cali,3,164040.0
+2025-05-03,Repetidor Mesh,Ana Torres,Bogota,2,394625.0
+2026-03-31,Antena Sectorial,Carlos Pena,Bogota,3,439654.0
+2026-05-10,Router Wifi 6,Luis Gomez,Barranquilla,3,301670.0
+2025-03-25,Cable Utp Cat6,Ana Torres,Medellin,7,331900.0
+2025-07-06,Repetidor Mesh,Luis Gomez,Bogota,5,585601.0
+2025-07-23,Cable Utp Cat6,Luis Gomez,Bogota,2,1029126.0
+2025-02-24,Repetidor Mesh,Carlos Pena,Barranquilla,5,238880.0
+2026-04-28,Ont Fibra,Luis Gomez,Bogota,6,241223.0
+2025-09-06,Ont Fibra,Ana Torres,Medellin,7,643536.0
+2025-05-25,Repetidor Mesh,Luis Gomez,Medellin,2,93561.0
+2025-07-01,Router Wifi 6,Marta Ruiz,Medellin,1,743537.0
+2025-07-30,Antena Sectorial,Carlos Pena,Cali,4,640123.0
+2026-05-03,Repetidor Mesh,Marta Ruiz,Medellin,1,98465.0
+2025-10-26,Switch 24P,Luis Gomez,Medellin,3,1069826.0
+2025-12-05,Cable Utp Cat6,Luis Gomez,Medellin,7,1002529.0
+2025-11-29,Router Wifi 6,Luis Gomez,Medellin,5,42675.0
+2025-01-26,Cable Utp Cat6,Marta Ruiz,Bogota,8,163755.0
+2025-01-10,Switch 24P,Marta Ruiz,Cali,8,186864.0
+2026-04-06,Repetidor Mesh,Marta Ruiz,Barranquilla,4,215908.0
+2025-04-21,Ont Fibra,Ana Torres,Medellin,6,142885.0
+2025-07-13,Ont Fibra,Ana Torres,Medellin,4,423340.0
+2025-07-19,Antena Sectorial,Luis Gomez,Barranquilla,7,359050.0
+2026-02-18,Router Wifi 6,Carlos Pena,Bogota,5,334821.0
+2026-07-06,Antena Sectorial,Ana Torres,Medellin,1,592267.0
+2026-02-24,Repetidor Mesh,Marta Ruiz,Barranquilla,4,357693.0
+2025-07-07,Antena Sectorial,Luis Gomez,Medellin,1,46265.0
+2026-07-17,Ont Fibra,Ana Torres,Bogota,1,288713.0
+2026-02-09,Antena Sectorial,Carlos Pena,Medellin,6,461378.0
+2025-11-22,Ont Fibra,Ana Torres,Medellin,8,1474193.0
+2025-11-30,Switch 24P,Marta Ruiz,Medellin,8,525102.0
+2025-05-05,Antena Sectorial,Marta Ruiz,Medellin,5,509379.0
+2026-07-08,Ont Fibra,Marta Ruiz,Medellin,2,816662.0
+2026-08-13,Antena Sectorial,Ana Torres,Cali,8,198694.0
+2026-04-04,Switch 24P,Luis Gomez,Cali,6,286237.0
+2026-05-14,Repetidor Mesh,Marta Ruiz,Medellin,8,1526176.0
+2025-01-28,Switch 24P,Carlos Pena,Medellin,7,293464.0
+2025-04-18,Router Wifi 6,Carlos Pena,Cali,2,111856.0
+2025-01-06,Repetidor Mesh,Luis Gomez,Medellin,5,241633.0
+2026-05-20,Ont Fibra,Carlos Pena,Barranquilla,3,276710.0
+2025-12-08,Switch 24P,Luis Gomez,Bogota,5,264353.0
+2025-12-01,Ont Fibra,Ana Torres,Bucaramanga,1,157927.0
+2025-07-28,Antena Sectorial,Ana Torres,Medellin,8,256144.0
+2025-07-15,Switch 24P,Carlos Pena,Bogota,7,246332.0
+2026-01-11,Router Wifi 6,Carlos Pena,Medellin,1,221194.0
+2025-10-11,Router Wifi 6,Luis Gomez,Cali,4,98529.0
+2025-04-08,Antena Sectorial,Luis Gomez,Barranquilla,7,208192.0
+2025-05-06,Router Wifi 6,Carlos Pena,Medellin,5,253305.0
+2026-07-18,Antena Sectorial,Luis Gomez,Medellin,1,342569.0
+2026-08-05,Antena Sectorial,Marta Ruiz,Medellin,6,321709.0
+2026-03-27,Cable Utp Cat6,Luis Gomez,Bogota,8,524818.0
+2026-07-22,Cable Utp Cat6,Carlos Pena,Medellin,1,371740.0
+2025-12-10,Router Wifi 6,Carlos Pena,Cali,1,331344.0
+2026-05-05,Antena Sectorial,Carlos Pena,Medellin,8,261396.0
+2026-02-14,Antena Sectorial,Ana Torres,Medellin,8,488420.0
+2026-05-16,Cable Utp Cat6,Marta Ruiz,Bogota,7,649775.0
+2025-03-23,Repetidor Mesh,Carlos Pena,Cali,6,162922.0
+2026-07-25,Cable Utp Cat6,Ana Torres,Bogota,4,216389.0
+2025-01-05,Repetidor Mesh,Marta Ruiz,Bucaramanga,6,371182.0
+2025-03-21,Antena Sectorial,Marta Ruiz,Barranquilla,6,291741.0
+2026-08-15,Router Wifi 6,Carlos Pena,Cali,3,696467.0
+2026-04-05,Antena Sectorial,Luis Gomez,Medellin,3,877912.0
+2026-05-28,Repetidor Mesh,Luis Gomez,Bucaramanga,8,766160.0
+2025-04-24,Switch 24P,Marta Ruiz,Cali,7,196448.0
+2025-05-07,Router Wifi 6,Ana Torres,Bogota,1,283659.0
+2026-03-30,Switch 24P,Marta Ruiz,Bogota,1,212124.0
+2025-09-09,Switch 24P,Carlos Pena,Barranquilla,6,256941.0
+2025-07-05,Repetidor Mesh,Luis Gomez,Medellin,3,231785.0
+2026-04-17,Antena Sectorial,Ana Torres,Cali,1,624988.0
+2025-01-05,Switch 24P,Luis Gomez,Bogota,1,296832.0
+2026-01-15,Ont Fibra,Luis Gomez,Medellin,5,541640.0
+2025-12-29,Cable Utp Cat6,Ana Torres,Barranquilla,2,384328.0
+2025-12-03,Antena Sectorial,Carlos Pena,Cali,3,285963.0
+2026-04-26,Cable Utp Cat6,Marta Ruiz,Barranquilla,5,217557.0
+2025-09-16,Ont Fibra,Luis Gomez,Bogota,6,143725.0
+2025-09-30,Antena Sectorial,Luis Gomez,Medellin,5,138168.0
+2026-01-12,Repetidor Mesh,Marta Ruiz,Barranquilla,6,297376.0
+2026-07-31,Switch 24P,Ana Torres,Medellin,8,703948.0
+2025-01-18,Ont Fibra,Ana Torres,Medellin,8,75090.0
+2026-06-23,Antena Sectorial,Carlos Pena,Medellin,6,400661.0
+2025-05-01,Router Wifi 6,Carlos Pena,Cali,5,862726.0
+2025-08-15,Router Wifi 6,Ana Torres,Medellin,7,146132.0
+2025-09-13,Router Wifi 6,Carlos Pena,Cali,1,326250.0
+2025-12-15,Router Wifi 6,Marta Ruiz,Medellin,1,339460.0
+2026-07-10,Antena Sectorial,Marta Ruiz,Bogota,5,276884.0
+2025-12-07,Router Wifi 6,Carlos Pena,Bucaramanga,7,85785.0
+2025-04-15,Router Wifi 6,Luis Gomez,Cali,3,206335.0
+2026-02-19,Repetidor Mesh,Ana Torres,Medellin,2,613525.0
+2025-10-06,Cable Utp Cat6,Carlos Pena,Medellin,6,258118.0
+2026-02-13,Router Wifi 6,Luis Gomez,Medellin,3,285329.0
+2026-02-22,Antena Sectorial,Marta Ruiz,Barranquilla,6,461905.0
+2026-08-07,Switch 24P,Luis Gomez,Bogota,6,1066106.0
+2026-01-25,Router Wifi 6,Marta Ruiz,Cali,4,1348748.0
+2026-03-06,Cable Utp Cat6,Luis Gomez,Barranquilla,4,476968.0
+2025-08-02,Repetidor Mesh,Carlos Pena,Barranquilla,4,100825.0
+2025-06-25,Cable Utp Cat6,Marta Ruiz,Medellin,4,338274.0
+2026-07-12,Switch 24P,Ana Torres,Bucaramanga,6,273113.0
+2026-03-20,Ont Fibra,Ana Torres,Cali,5,268257.0
+2025-11-15,Cable Utp Cat6,Marta Ruiz,Bogota,3,485903.0
+2025-08-16,Antena Sectorial,Carlos Pena,Bogota,1,170086.0
+2025-12-28,Switch 24P,Ana Torres,Medellin,8,287567.0
+2025-12-05,Cable Utp Cat6,Ana Torres,Bogota,3,656328.0
+2025-09-26,Cable Utp Cat6,Carlos Pena,Cali,3,93345.0
+2025-10-12,Ont Fibra,Carlos Pena,Bogota,3,722237.0
+2026-02-10,Router Wifi 6,Luis Gomez,Bogota,6,278580.0
+2026-03-19,Ont Fibra,Ana Torres,Bogota,7,740690.0
+2025-11-19,Repetidor Mesh,Carlos Pena,Medellin,3,422565.0
+2025-10-12,Router Wifi 6,Marta Ruiz,Bogota,7,259058.0
+2025-03-25,Switch 24P,Ana Torres,Barranquilla,2,358541.0
+2026-03-12,Cable Utp Cat6,Carlos Pena,Medellin,1,845505.0
+2026-04-02,Cable Utp Cat6,Luis Gomez,Cali,5,291782.0
+2026-08-09,Router Wifi 6,Luis Gomez,Medellin,7,174040.0
+2026-04-24,Cable Utp Cat6,Marta Ruiz,Bogota,8,632149.0
+2026-03-18,Cable Utp Cat6,Luis Gomez,Bogota,4,286271.0
+2026-06-12,Cable Utp Cat6,Ana Torres,Cali,3,512099.0
+2025-06-24,Router Wifi 6,Ana Torres,Bogota,5,761363.0
+2026-03-07,Ont Fibra,Luis Gomez,Bogota,7,118346.0
+2025-06-19,Switch 24P,Luis Gomez,Cali,6,74297.0
+2026-03-21,Cable Utp Cat6,Marta Ruiz,Medellin,1,1999974.0
